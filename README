@@ -1,0 +1,126 @@
+Feedback
+
+An installation by Hellicar&Lewis with Todd Vanderlin.
+
+http://hellicarandlewis.com
+http://toddvanderlin.com
+
+Compatible with of_preRelease_v0061_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Uses:
+
+ofxBackground by Joel Gethin Lewis
+http://joelgethinlewis.com
+
+ofxBox2D by Todd Vanderlin
+http://code.google.com/p/vanderlin/
+http://toddvanderlin.com
+
+ofxControlPanel by Theo Watson, customised by Todd Vanderlin
+https://github.com/ofTheo/ofxControlPanel
+http://theowatson.com
+
+ofxCvHaarFinder
+Originally written by charli_e, adapted from code by stefanix.
+Completely rewritten by Kyle Mcdonald. opencv hack by Theo Watson.
+See the discussion for more info:
+http://www.openframeworks.cc/forum/viewtopic.php?f=10&t=2006
+http://www.kylemcdonald.net/
+http://code.google.com/p/kyle/
+
+ofxCvOpticalFlow
+Copyright (C) 2008 Takashi Maekawa <takachin@generative.info> 
+Copyright (C) 2008 Satoru Higa
+All rights reserved.
+
+ofxDelaunay
+Believed to be by Todd Vanderlin
+http://toddvanderlin.com/
+
+ofxFboTexture
+by	Zach Gage, Theo Watson, Memo Akten, Josh Nimoy
+http://www.stfj.net
+http://theowatson.com
+http://www.memo.tv
+http://www.jtnimoy.net
+
+ofxMSAInteractiveObject
+by Memo Akten
+http://www.memo.tv
+
+ofxMSASpline
+by Memo Akten
+http://www.memo.tv
+
+ofxOpenCVExtensionsDepleted
+Customised by Joel Gethin Lewis, based on work by 
+ofxOpenCVExtensions by 
+LAB at Rockwell Group
+http://lab.rockwellgroup.com/
+CPUImageFilter by NUI Group
+http://nuigroup.com
+ofxCVBlobTracker by Stefan Hechenberger
+http://stefanix.net/
+ofxCvOpticalFlowLK by Takashi Maekawa
+http://generative.info/
+
+ofxShader
+by Kyle McDonald
+http://www.kylemcdonald.net/
+http://code.google.com/p/kyle/
+
+ofxSlitscan
+by James George
+http://jamesgeorge.org/ofxslitscan/
+
+and 
+
+Slitscan Example
+by jesusgollonet
+http://www.openframeworks.cc/forum/viewtopic.php?t=49
+http://www.jesusgollonet.com/
+http://www.jesusgollonet.com/blog/
+
+AppSettings by Todd Vanderlin
+http://code.google.com/p/vanderlin/
+http://toddvanderlin.com
+
+VectorField by Theo Watson
+http://www.openframeworks.cc/forum/viewtopic.php?f=10&t=555
+http://www.openframeworks.cc/files/motionTest-cb-win.zip
+
+Feedback Image Player
+
+An image player for grabs from the main Feedback installation by Hellicar&Lewis with Todd Vanderlin.
+
+http://hellicarandlewis.com
+http://toddvanderlin.com
+
+Compatible with of_preRelease_v0061_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Uses:
+
+AppSettings by Todd Vanderlin
+http://code.google.com/p/vanderlin/
+http://toddvanderlin.com
+
+ofxControlPanel by Theo Watson, customised by Todd Vanderlin
+https://github.com/ofTheo/ofxControlPanel
+http://theowatson.com
+
+ofxFboTexture
+by	Zach Gage, Theo Watson, Memo Akten, Josh Nimoy
+http://www.stfj.net
+http://theowatson.com
+http://www.memo.tv
+http://www.jtnimoy.net
